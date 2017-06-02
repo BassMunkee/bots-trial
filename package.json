@@ -1,0 +1,16 @@
+{
+  "name": "snap-chef-try",
+  "version": "1.0.0",
+  "description": "Follow tutorial to create a sample bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app.js"
+  },
+  "author": "Srikanth A V",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.8.3",
+    "restify": "^4.3.0"
+  }
+}
